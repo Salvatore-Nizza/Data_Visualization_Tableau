@@ -1,6 +1,6 @@
 # Progetto Data Visualization con Tableau: Lo Stato della Felicità Globale
 
-Questo progetto è stato sviluppato da Salvatore Nizza e mira a esplorare lo stato della felicità a livello globale utilizzando dati forniti dal World Happiness Report.
+Questo progetto mira a esplorare lo stato della felicità a livello globale utilizzando dati forniti dal World Happiness Report.
 
 ## Descrizione del Progetto
 
